@@ -1,5 +1,5 @@
 ---
-title: "" # ビギナー向け:Raspberry Pi + Claude API統合ガイド　～センサーデータ分析から可視化～ （上）
+title: "ビギナー向け:Raspberry Pi + Claude API統合ガイド　～センサーデータ分析から可視化～ （上)"
 emoji: "🍓"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Raspberry Pi", "Claude", "Python", "IoT", "API"]
@@ -107,10 +107,10 @@ DHT11センサーは4本のピンを持ちます：
 ```
 DHT11
 ┌─────────────────┐
-│ ① VCC  (赤)    │ → Raspberry Pi +5V (ピン2)
-│ ② DATA (黄)    │ → Raspberry Pi GPIO 4 (ピン7)
-│ ③ NC          │ → 接続しない
-│ ④ GND  (黒)    │ → Raspberry Pi GND (ピン6)
+│ ① VCC  (赤)     │ → Raspberry Pi +5V (ピン2)
+│ ② DATA (黄)     │ → Raspberry Pi GPIO 4 (ピン7)
+│ ③ NC            │ → 接続しない
+│ ④ GND  (黒)     │ → Raspberry Pi GND (ピン6)
 └─────────────────┘
 ```
 
