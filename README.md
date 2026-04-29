@@ -1,2 +1,2 @@
 # zenn-content
-For uploading my Zenn articles or books in the future. 
+This repository is used to manage my articles published on Zenn.dev. All rights reserved unless otherwise specified.
