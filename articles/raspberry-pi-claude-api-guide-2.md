@@ -3,7 +3,7 @@ title: "ビギナー向け:Raspberry Pi + Claude API統合ガイド　～Claude 
 emoji: "🍓"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Raspberry Pi", "Claude", "Python", "IoT", "API"]
-published: false
+published: true
 published_at: "2026-05-01 12:00" 
 ---
 
