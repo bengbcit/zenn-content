@@ -1,5 +1,5 @@
 ---
-title: "ビギナー向け:Raspberry Pi + Claude API統合ガイド　～センサーデータ分析から可視化～ （上)"
+title: "ビギナー向け:Raspberry Pi + Claude API統合ガイド　～Raspberry Piで温湿度センサーを動かすまで～ （上)"
 emoji: "🍓"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Raspberry Pi", "Claude", "Python", "IoT", "API"]
